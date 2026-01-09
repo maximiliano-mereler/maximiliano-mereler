@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there! I'm Maximiliano 👋
 
-<!--
-**maximiliano-mereler/maximiliano-mereler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Web Developer** based in Concordia, Argentina. I am currently finishing my Technical Degree in Web Development and looking for my first professional opportunity in the IT world.
 
-Here are some ideas to get you started:
+- 🔭 This next six month i will be finishing my career working on some interesting subjects, like mobile development .
+- 🌱 I’m currently improving my skills in **Node.js and Express**.
+- 🎓 I graduated from **Codo a Codo** as a Python Full Stack Dev.
+- ⚡ **Soft Skills:** I have training in **Oratory and Effective Communication**, which helps me collaborate better in teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Database:**
+- 🐍 Python (Intermediate)
+- 🗄️ SQL (MySQL)
+- 🌐 JavaScript (ES6+) & HTML/CSS
+
+**Tools & Frameworks:**
+- 🔧 Git & GitHub
+- 📦 Node.js (Basic/Learning)
+- 🐧 Linux Environment
+
+---
+
+### 📫 Connect with me
+- 💼 [LinkedIn] www.linkedin.com/in/maximiliano-merele-
+
+- 📧 [maximilianomereler@gmail.com]
+
